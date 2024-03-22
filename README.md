@@ -13,10 +13,8 @@ This is a web application designed to manage telecom mobility customers. It prov
 1. Clone this repository:
    
    ```bash
-   git clone <repository_url>
+   git clone 
    ```
-
-
 
 ## Backend APIs
 
